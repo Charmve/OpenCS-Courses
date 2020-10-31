@@ -526,13 +526,12 @@ You can change the status of your board to be *public* or *private*.
 
 # Team
 
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
+* **[Eric Douglas](https://github.com/ericdouglas)**: founder of [OSSU](https://github.com/ossu)
 * **[hanjiexi](https://github.com/hanjiexi)**: lead technical maintainer
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
 
-### License
+# License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Thanks for ![OSSU](https://github.com/ossu)
