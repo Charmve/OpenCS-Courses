@@ -4,7 +4,7 @@
     <img src="extras/Logo.png" width="200px">
 </div>
 
-<h3 align="center">OpenCS: Top University Open Courses</h3>
+<h3 align="center">OpenCS: Top University Open CS Courses</h3>
 <p align="center">
   Path to a free self-taught education in Computer Science!
 </p>
@@ -535,4 +535,4 @@ You can change the status of your board to be *public* or *private*.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Thanks for OSSU
+Thanks for ![OSSU](https://github.com/ossu)
