@@ -4,7 +4,7 @@
     <img src="extras/Logo.png" width="200px">
 </div>
 
-
+<h3 align="center">OpenCS: Top University Open CS Courses</h3>
 <p align="center">
   Path to a free self-taught education in Computer Science!
 </p>
