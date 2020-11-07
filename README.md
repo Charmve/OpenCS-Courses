@@ -1,4 +1,5 @@
 # OpenCS-Courses
+<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href="ReadmeChinese.md" target="_blank">Chinese</a>
 
 <div align="center">
     <img src="extras/Logo.png" width="200px">
