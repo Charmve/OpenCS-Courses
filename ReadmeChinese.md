@@ -20,12 +20,14 @@
 
 # Contents
 
-- [Summary](#summary)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
+- [概述](#summary)
+- [社区](#community)
+- [课程](#curriculum)
+- [社群行为准则](#code-of-conduct)
+- [团队介绍](#team)
 
-# Summary
+# 概述
+
+https://github.com/ossu/computer-science-cn
 
 Coming soon ...
