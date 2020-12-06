@@ -470,7 +470,7 @@ and to get experience listening to feedback — both positive and negative — a
 The final project evaluation has a second purpose: to evaluate whether OpenCS,
 through its community and curriculum, is successful in its mission to guide independent learners in obtaining a world-class computer science education.
 
-### Cooperative work
+### Cooperative Work
 
 You can create this project alone or with other students!
 **We love cooperative work**!
@@ -500,7 +500,7 @@ What is next for you? The possibilities are boundless and overlapping:
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
 # Code of Conduct
-[OSSU's code of conduct](./Code-of-Conduct.md).
+[OpenCS's code of conduct](./Code-of-Conduct.md).
 
 ## How to show your progress
 
