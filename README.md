@@ -499,8 +499,8 @@ What is next for you? The possibilities are boundless and overlapping:
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+# Code of Conduct
+[OSSU's code of conduct](./Code-of-Conduct.md).
 
 ## How to show your progress
 
