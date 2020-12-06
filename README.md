@@ -23,7 +23,7 @@
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
+- [Code of Conduct](#code-of-conduct)
 - [Team](#team)
 
 # Summary
