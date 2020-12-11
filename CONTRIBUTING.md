@@ -6,7 +6,7 @@ If you have non-substantive updates to make to the curriculum, such as a course'
 
 ## Substantive changes
 If you have specific and substantive criticisms of the curriculum, i.e. problems related to the progression/content of courses it would be appropriate to [open an issue](https://help.github.com/articles/creating-an-issue/). While it is acceptable to point out problems, all successful changes naturally require a plan for fixing the problem.
-OSSU’s curricular guidelines are [here](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md). Successful critiques of the curriculum will point out ways that OSSU is failing to uphold these guidelines. Examples are:
+OSSU’s curricular guidelines are [here](./CURRICULAR_GUIDELINES.md). Successful critiques of the curriculum will point out ways that OSSU is failing to uphold these guidelines. Examples are:
 
 * OSSU lists a course as required when the course topics are elective in the curricular guide.
 * OSSU does not having a course to cover required topics from the curricular guide.
