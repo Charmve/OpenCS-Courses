@@ -86,6 +86,8 @@ just remember that you can't purchase success!
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 - Note: There is an unmaintained and deprecated firebase app that you might find when searching OpenCS. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
+<br>
+
 # Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
@@ -118,6 +120,8 @@ just remember that you can't purchase success!
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
+[<b>BACK to TOP</b> -->](#curriculum)
+
 ## Intro CS
 
 ### Introduction to Programming
@@ -145,6 +149,8 @@ This course will introduce you to the world of computer science. Students who ha
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+
+[<b>BACK to TOP</b> -->](#curriculum)
 
 ## Core CS
 
@@ -332,6 +338,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction | [chat](https://discord.gg/2FAujEZ)
 
+[<b>BACK to TOP</b> -->](#curriculum)
+
 ## Advanced CS
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
@@ -434,6 +442,8 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development) | 6 months | 5 hours/week | programming, interactive design
 
+[<b>BACK to TOP</b> -->](#curriculum)
+
 ## Final project
 
 OSS University is **project-focused**.
@@ -483,6 +493,8 @@ You can use **any** language that you want to complete the final project.
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
+[<b>BACK to TOP</b> -->](#curriculum)
+
 ## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science. Congratulations!
@@ -496,6 +508,9 @@ What is next for you? The possibilities are boundless and overlapping:
   + Explore the **actor model** through [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
+
+[<b>BACK to TOP</b> -->](#curriculum)
+<br>
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
@@ -525,12 +540,16 @@ You should put the *Course's cards* below its respective *Section's card*.
 The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
 You can change the status of your board to be *public* or *private*.
 
+[<b>BACK to TOP</b> -->](#opencs-courses)
+
 # Team
 
 * **[Eric Douglas](https://github.com/ericdouglas)**: founder of [OSSU](https://github.com/ossu)
 * **[hanjiexi](https://github.com/hanjiexi)**: lead technical maintainer
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+
+[<b>BACK to TOP</b> -->](#opencs-courses)
 
 # License
 
