@@ -1,5 +1,5 @@
 # OpenCS-Courses
-<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href="ReadmeChinese.md" target="_blank">Chinese</a>
+<a href="https://github.com/Charmve" target="_blank">@Charmve</a> | English | <a href="ReadmeChinese.md" target="_blank">Chinese</a>
 
 <div align="center">
     <img src="extras/Logo.png" width="200px">
@@ -14,7 +14,7 @@
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
   <a href="https://github.com/Charmve/OpenCS-Courses">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OpenCS-computer--science-blue.svg">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/🎓 OpenCS-computer--science-blue.svg">
   </a>
 </p>
 
